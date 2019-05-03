@@ -12,7 +12,7 @@
 * [Assignment 3 PR](https://github.com/alex-white-401-advanced-javascript/lab-28/pull/3)
 
 #### Assignment 1 - Props Practice
-* [Codesandbox index.js](https://codesandbox.io/s/github/alex-white-401-advanced-javascript/lab-28/tree/props_practice)
+* [Codesandbox index.js](https://codesandbox.io/s/xo2w2w1w1o)
 * [CodeSandBox Modular](https://codesandbox.io/s/xrj807rv2o)
 
 #### Assignment 2 - Internal State
