@@ -20,7 +20,7 @@
 * [CodeSandBox Modular](https://codesandbox.io/s/womjkry10k)
 
 #### Assignment 3 - External State
-* [Codesandbox index.js](https://codesandbox.io/s/github/alex-white-401-advanced-javascript/lab-28/tree/state_external)
+* [Codesandbox index.js](https://codesandbox.io/s/n1575q68rj)
 * [CodeSandBox Modular](https://codesandbox.io/s/mjnrq3q59x)
 
 
