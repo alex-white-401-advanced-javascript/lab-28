@@ -16,7 +16,7 @@
 * [CodeSandBox Modular](https://codesandbox.io/s/xrj807rv2o)
 
 #### Assignment 2 - Internal State
-* [Codesandbox index.js](https://codesandbox.io/s/github/alex-white-401-advanced-javascript/lab-28/tree/state_internal)
+* [Codesandbox index.js](https://codesandbox.io/s/6yx43qkvz3)
 * [CodeSandBox Modular](https://codesandbox.io/s/womjkry10k)
 
 #### Assignment 3 - External State
